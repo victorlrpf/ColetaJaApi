@@ -19,7 +19,7 @@ API REST desenvolvida em C# (.NET 8) para o aplicativo ColetaJá.
 
 ```json
 "ConnectionStrings": {
-  "DefaultConnection": "Host=db.supabase.co;Port=5432;Database=postgres;Username=postgres;Password=SUA_SENHA_AQUI"
+  "DefaultConnection": "Host=db.ghjnuehfxhhagcggagps.supabase.co;Port=5432;Database=postgres;Username=postgres;Password=SUA_SENHA_AQUI"
 }
 ```
 
