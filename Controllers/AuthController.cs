@@ -24,6 +24,7 @@ namespace ColetaJaApi.Controllers
             _configuration = configuration;
         }
 
+        [AllowAnonymous]
         [HttpPost("register")]
         public async Task<ActionResult<AuthResponse>> Register(RegisterRequest request)
         {
@@ -58,6 +59,7 @@ namespace ColetaJaApi.Controllers
             });
         }
 
+        [AllowAnonymous]
         [HttpPost("login")]
         public async Task<ActionResult<AuthResponse>> Login(LoginRequest request)
         {
