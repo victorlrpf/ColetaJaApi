@@ -8,7 +8,6 @@
 /home/ubuntu/ColetaJaApi/ColetaJaApi/bin/Debug/net8.0/BCrypt.Net-Next.dll
 /home/ubuntu/ColetaJaApi/ColetaJaApi/bin/Debug/net8.0/Humanizer.dll
 /home/ubuntu/ColetaJaApi/ColetaJaApi/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
-/home/ubuntu/ColetaJaApi/ColetaJaApi/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
 /home/ubuntu/ColetaJaApi/ColetaJaApi/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
 /home/ubuntu/ColetaJaApi/ColetaJaApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
 /home/ubuntu/ColetaJaApi/ColetaJaApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
@@ -104,6 +103,7 @@
 /home/ubuntu/ColetaJaApi/ColetaJaApi/obj/Debug/net8.0/ColetaJaApi.csproj.CoreCompileInputs.cache
 /home/ubuntu/ColetaJaApi/ColetaJaApi/obj/Debug/net8.0/ColetaJaApi.MvcApplicationPartsAssemblyInfo.cs
 /home/ubuntu/ColetaJaApi/ColetaJaApi/obj/Debug/net8.0/ColetaJaApi.MvcApplicationPartsAssemblyInfo.cache
+/home/ubuntu/ColetaJaApi/ColetaJaApi/obj/Debug/net8.0/ColetaJaApi.sourcelink.json
 /home/ubuntu/ColetaJaApi/ColetaJaApi/obj/Debug/net8.0/staticwebassets.build.json
 /home/ubuntu/ColetaJaApi/ColetaJaApi/obj/Debug/net8.0/staticwebassets.development.json
 /home/ubuntu/ColetaJaApi/ColetaJaApi/obj/Debug/net8.0/staticwebassets/msbuild.ColetaJaApi.Microsoft.AspNetCore.StaticWebAssets.props
