@@ -118,3 +118,14 @@
 /home/ubuntu/ColetaJaApi/ColetaJaApi/obj/Debug/net8.0/ColetaJaApi.pdb
 /home/ubuntu/ColetaJaApi/ColetaJaApi/obj/Debug/net8.0/ColetaJaApi.genruntimeconfig.cache
 /home/ubuntu/ColetaJaApi/ColetaJaApi/obj/Debug/net8.0/ref/ColetaJaApi.dll
+/home/ubuntu/ColetaJaApi/ColetaJaApi/bin/Debug/net8.0/Supabase.Functions.dll
+/home/ubuntu/ColetaJaApi/ColetaJaApi/bin/Debug/net8.0/Supabase.Gotrue.dll
+/home/ubuntu/ColetaJaApi/ColetaJaApi/bin/Debug/net8.0/MimeMapping.dll
+/home/ubuntu/ColetaJaApi/ColetaJaApi/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/ubuntu/ColetaJaApi/ColetaJaApi/bin/Debug/net8.0/Supabase.Postgrest.dll
+/home/ubuntu/ColetaJaApi/ColetaJaApi/bin/Debug/net8.0/Supabase.Realtime.dll
+/home/ubuntu/ColetaJaApi/ColetaJaApi/bin/Debug/net8.0/Supabase.Core.dll
+/home/ubuntu/ColetaJaApi/ColetaJaApi/bin/Debug/net8.0/Supabase.dll
+/home/ubuntu/ColetaJaApi/ColetaJaApi/bin/Debug/net8.0/Supabase.Storage.dll
+/home/ubuntu/ColetaJaApi/ColetaJaApi/bin/Debug/net8.0/System.Reactive.dll
+/home/ubuntu/ColetaJaApi/ColetaJaApi/bin/Debug/net8.0/Websocket.Client.dll

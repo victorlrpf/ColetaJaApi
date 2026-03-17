@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ColetaJaApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adb1604d702da19b5dbd0dcd85c6444dc5d9bd39")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ca9b5820e3ba52d59039b25db49f181bfbb7c3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ColetaJaApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ColetaJaApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,17 @@
+version: '3.4'
+
+services:
+  coletajaapi:
+    image: coletajaapi
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5152:80"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Host=db.ghjnuehfxhhagcggagps.supabase.co;Port=5432;Database=postgres;Username=postgres;Password=zarabatna20
+      - Jwt__Key=SuaChaveSecretaSuperSeguraEComPeloMenos32Caracteres
+      - Jwt__Issuer=ColetaJaApi
+      - Jwt__Audience=ColetaJaApp
+      - Jwt__ExpiryInMinutes=1440

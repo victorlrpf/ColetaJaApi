@@ -34,6 +34,8 @@ namespace ColetaJaApi.Controllers
                 City = request.City,
                 State = request.State,
                 ZipCode = request.ZipCode,
+                Latitude = request.Latitude,
+                Longitude = request.Longitude,
                 UserId = userId
             };
 
